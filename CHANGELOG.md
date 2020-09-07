@@ -1,5 +1,9 @@
 # Changelog
 
+# v2.0.0 - 2020/09/07
+
+- Set version of the terraform to 0.13.2
+
 # v1.3.0 - 2020/08/03
 
 - Set minimum version of random provider to 2.3.0

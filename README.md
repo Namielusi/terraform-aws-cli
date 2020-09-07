@@ -54,7 +54,7 @@ module "current_desired_capacity" {
 
 | Name | Version |
 |------|---------|
-| terraform | ~> 0.12.24 |
+| terraform | ~> 0.13.2 |
 | external | ~> 1.2.0 |
 | local | ~> 1.4.0 |
 | random | ~> 2.3.0 |
