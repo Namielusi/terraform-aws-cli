@@ -1,5 +1,9 @@
 # Changelog
 
+# v2.0.1 - 2020/09/07
+
+- Downgrade to terraform ~> 0.13
+
 # v2.0.0 - 2020/09/07
 
 - Set version of the terraform to 0.13.2
